@@ -1,2 +1,5 @@
 
 *.properties
+!a.properties
+!b.properties
+
